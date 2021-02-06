@@ -6,7 +6,7 @@ The source code was taken verbatim from this C version of the Benchmark: http://
 
 ## Results
 
-Note that to some degree the results depend on the compiler that is used and on its options. All subsequent results were obtained with the binary (`linpack.tos`) in this repository, using the default array size (200) when prompted.
+Note that to some degree the results depend on the compiler that is used and on its options. All subsequent results were obtained with the binary (`linpack.tos`) in this repository, with double precision and using the default array size (200) when prompted.
 
 System | Result in kFLOPS | Remarks
 --- | ---: | ---
