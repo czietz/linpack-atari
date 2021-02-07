@@ -18,4 +18,4 @@ Milan040 under MagiC | 1695 | Source: https://forum.atari-home.de/index.php/topi
 Milan060 | 4144 | Source: https://forum.atari-home.de/index.php/topic,15025.msg237349.html#msg237349
 CT63 @ 95 MHz under MiNT | 7590 | Source: https://forum.atari-home.de/index.php/topic,15025.msg237349.html#msg237349
 
-A long list of results of different systems is available in the report [“Performance of Various Computers Using Standard Linear Equations Software”](http://www.netlib.org/benchmark/performance.ps) (PostScript viewer required).
+A long list of results of different systems is available in the report [“Performance of Various Computers Using Standard Linear Equations Software”](https://www.netlib.org/benchmark/performance.pdf).
