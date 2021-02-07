@@ -2,11 +2,13 @@
 
 This is the [famous LINPACK benchmark](https://en.wikipedia.org/wiki/LINPACK_benchmarks) to measure the floating-point performance of Atari machines running TOS (or MiNT). It requires at least a 68020 CPU and a FPU. It solves a linear equation system and is used to evaluate the performance of computers and super-computers since 1979.
 
-The source code was taken verbatim from this C version of the Benchmark: http://www.netlib.org/benchmark/linpackc.new. (The original benchmark was written in FORTRAN.)
+The source code for `linpack.tos` was taken verbatim from this C version of the Benchmark: http://www.netlib.org/benchmark/linpackc.new.
+
+The original benchmark (written in FORTRAN) is also included as `linpackd.tos`. The source code was taken from here: http://www.netlib.org/benchmark/linpackd. This was compiled with [GNU Fortran 8.3.0](http://tho-otto.de/crossmint.php).
 
 ## Results
 
-Note that to some degree the results depend on the compiler that is used and on its options. All subsequent results were obtained with the binary (`linpack.tos`) in this repository, with double precision and using the default array size (200) when prompted.
+Note that to some degree the results depend on the compiler that is used and on its options. All subsequent results were obtained with the binary of the *C version* of the benchmark (`linpack.tos`) in this repository, with double precision and using the default array size (200) when prompted.
 
 System | Result in kFLOPS | Remarks
 --- | ---: | ---
