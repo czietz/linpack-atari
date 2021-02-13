@@ -590,6 +590,10 @@ c
 c     estimate unit roundoff in quantities of size x.
 c
       double precision a,b,c,eps
+c     volatile ensures that the compiler does not precalculate
+c     any of the values.
+c     this change is dated 02/13/2021
+      volatile a,b,c,eps
 c
 c     this program should function properly on all systems
 c     satisfying the following two assumptions,
