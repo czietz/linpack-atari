@@ -17,6 +17,7 @@ Falcon @ 16 MHz + 68882 FPU | 111 | Source: https://forum.atari-home.de/index.ph
 PAK68/3-020 + 68881 FPU, both @ 32 MHz | 180 | Source: https://forum.atari-home.de/index.php/topic,15025.msg254546.html#msg254546
 Stock TT, FPU @ 32 MHz | 217 | Source: https://forum.atari-home.de/index.php/topic,15025.msg237349.html#msg237349
 TT, CPU & FPU accelerated @ 48 MHz | 281 |
+PAK68/3-020 + 68882 FPU, both @ 40 MHz | 343 | Source: https://forum.atari-home.de/index.php/topic,15025.msg254585.html#msg254585
 CT2A Falcon | 415 | Source: https://forum.atari-home.de/index.php/topic,15025.msg237349.html#msg237349
 Milan040 under MagiC | 1695 | Source: https://forum.atari-home.de/index.php/topic,15025.msg237349.html#msg237349
 Milan060 | 4144 | Source: https://forum.atari-home.de/index.php/topic,15025.msg237349.html#msg237349
