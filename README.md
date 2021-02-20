@@ -8,7 +8,7 @@ The original benchmark (written in FORTRAN) is also included as `linpackd.tos`. 
 
 ## Results
 
-Note that to some degree the results depend on the compiler that is used and on its options. All subsequent results were obtained with the binary of the *C version* of the benchmark (`linpack.tos`) in this repository, with double precision and using the default array size (200) when prompted.
+Note that to some degree the results depend on the compiler that is used and on its options. All subsequent results were obtained with the binary of the *C version* of the benchmark (`linpack.tos`) in this repository, with double precision and using the default array size when prompted (200, which results in a n=100x100 matrix to be solved).
 
 System | Result in kFLOPS | Remarks
 --- | ---: | ---
